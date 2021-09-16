@@ -1,6 +1,6 @@
 - Hi, welcome to my profile.
 - My name is Tran Minh Quan, born in 2001.
-- I am a student in University of Science,Ho Chi Minh city,Viet Nam
+- I am a student in University of Science, Ho Chi Minh city, Viet Nam.
 
 
 <!---
