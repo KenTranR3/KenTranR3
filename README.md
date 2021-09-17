@@ -3,9 +3,9 @@
 - I am a student in University of Science, Ho Chi Minh city, Viet Nam.
 
 
-![](https://github.com/KenTranR3/KenTranR3/blob/master/generated/overview.svg)
+![](https://github.com/KenTranR3/Profile-/blob/master/generated/overview.svg)
 
-![](https://github.com/KenTranR3/KenTranR3/blob/master/generated/languages.svg)
+![](https://github.com/KenTranR3/Profile-/blob/master/generated/languages.svg)
 
 <!---
 KenTranR3/KenTranR3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
